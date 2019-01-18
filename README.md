@@ -9,7 +9,7 @@ mkdir CarlosTest
 
 cd CarlosTest
 
-git clone git@github.com:cjrodriguez1/CardGame.git
+git clone https://github.com/cjrodriguez1/CardGame.git
 
 cd CardGame
 
